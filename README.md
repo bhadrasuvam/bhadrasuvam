@@ -1,6 +1,6 @@
 ![MasterHead](https://smartwinzsolutions.com/images/web_analytics-banner.jpg)
 <h1 align="center">Hola 👋, I'm Suvam Bhadra</h1>
-<h3 align="center">An aspiring Aeronautical Engineer and an Avid Data Detective !</h3>
+<h3 align="center">An aspiring Aeronautical Engineer and Your Next Door Data Detective !</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 - 🌱 I’m currently learning **Data Wrangling using Python**
